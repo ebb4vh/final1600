@@ -140,7 +140,7 @@ The aspect ratio of an image describes the proportional relationship between the
  **Common Resolutions:** Used for some theaters in the United States
 - Common resolutions: with 1.85:1 aspect ratio- are used for some theaters in the United States. More immersive films use 2.39:1.
 - advantages: If you are a filmmaker, great aspect ratio for dialogue and non-climatic scenes where a 2.39:1 is not necessary. Great for widescreen viewing.
-- disadvantages: Most likely not fitting in your budget. This is an aspect ratio not affordable for most consumers unless you have an elaborate home theater. Will not translate to smaller screens.
+- disadvantages: Most likely not fitting in your budget. This is an aspect ratio not affordable for most consumers unless you have an elaborate home theater. Will not translate to smaller screens.\
 
 
 ## Pixel Geometry
